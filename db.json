@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "naresh@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "fullName": "nareshvunnam",
+      "email": "naresh@email.com",
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "fullName": "nareshVunnam",
+      "email": "naresh@fmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 4,
+      "fullName": "nareshvunnam",
+      "email": "nareshv@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
